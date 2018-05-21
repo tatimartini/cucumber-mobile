@@ -1,0 +1,19 @@
+﻿
+Criar um projeto de automação com as ferramentas citadas (Cucumber, Calabash-Android e Ruby).
+
+O aplicativo a ser testado é o Cadastro de Carros (o .apk pode ser obtido através do link
+https://gitlab.com/mobile_app/apk_avaliacao)
+
+O projeto consiste em criar dois cenários:
+
+- Cadastrar um carro
+- Deletar um carro
+
+Diferencial: Utilizar o conceito de Page-Objects com Abase e utilizar Gemfile.
+
+Requerido: Subir o projeto no github. O versionamento do projeto faz parte da avaliação. Projetos enviados
+por outros meios não serão avaliados.
+
+Dica: Mesmo que não consiga finalizar 100% do projeto. Nos envie mesmo assim, pois avaliamos diversos itens,
+exemplo: lógica, estrutura, conhecimentos nas ferramentas. Há bastante material na internet que pode ser usado
+como base.

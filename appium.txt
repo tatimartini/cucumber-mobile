@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 5X"
+app = "/Users/tatianamartini/Desktop/Tati/_estudos/neon/mobile/_projeto/arc/Cadastro_de_Carro.apk"
+appPackage = "br.com.ftec.ailton.cadastrodecarrosweb"
